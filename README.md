@@ -20,6 +20,7 @@ I will provide one example using a proprietary technology you may be familiar wi
 Create a file named `answers.txt` containing your short answer responses to the following questions. 
 
 1. How do the results compare between job search results for "arcgis server" vs. "geoserver"? Discuss your findings with respect to number of jobs, salaries, and types of jobs. Be aware of jobs that are tagged as "sponsored" `7 pts`.
+The main difference between the two searches is that searching for "arcgis server" yields more specific results pertaining to the usage of ESRI ArcGIS products. Saerching for "geoserver" yields more general results of companies looking for geospatially skilled people. 
 
 2. Look through the class syllabus and search for additional technologies and compare the job search results to searches with similar software you know (e.g., arcgis vs. qgis, sde vs. postgis, arcgis javascript vs. openlayers or leaflet `7 pts`.
 
